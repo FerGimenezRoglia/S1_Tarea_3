@@ -15,6 +15,7 @@ public class Main {
         numbers.add(7);
         numbers.add(8);
         numbers.add(9);
+        numbers.add(10);
 
         for (Integer number : numbers) {
             System.out.println(number);

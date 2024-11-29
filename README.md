@@ -1,5 +1,5 @@
 
-# Ejercicios de Nivel 1 - Java
+# Resumen de ejercicios sobre Colecciones
 
 Este repositorio contiene tres ejercicios en Java que abarcan conceptos fundamentales como colecciones, iteradores, `HashSet`, `HashMap`, y manejo de archivos. A continuación, se presenta un resumen de cada uno:
 

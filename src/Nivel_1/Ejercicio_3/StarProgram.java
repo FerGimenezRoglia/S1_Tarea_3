@@ -73,8 +73,8 @@ public class StarProgram {
             writing.write("Name: " + userName + " / Points: " + pointsString);
             writing.newLine();
 
-        } catch (IOException E) {
-
+        } catch (IOException e) {
+            System.out.println("Error: writing file: " + e.getMessage());
         }
 
     }
